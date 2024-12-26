@@ -995,7 +995,7 @@ uptime = "https://uptime.betterstack.com/status-badges/v1/monitor/196o6.svg"
 st.sidebar.caption(
     f"""
         <div style='display: flex; align-items: center;'>
-            <a href = 'https://www.linkedin.com/in/sahir-maharaj/'><img src='{linkedin}' style='width: 35px; height: 35px; margin-right: 25px;'></a>
+            <a href = 'https://www.youtube.com'><img src='{linkedin}' style='width: 35px; height: 35px; margin-right: 25px;'></a>
             <a href = 'https://topmate.io/sahirmaharaj/362667'><img src='{topmate}' style='width: 32px; height: 32px; margin-right: 25px;'></a>
             <a href = 'mailto:sahir@sahirmaharaj.com'><img src='{email}' style='width: 28px; height: 28px; margin-right: 25px;'></a>
             <a href = 'https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7163516439096733696'><img src='{newsletter}' style='width: 28px; height: 28px; margin-right: 25px;'></a>
